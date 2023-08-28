@@ -1,9 +1,9 @@
 {
-  "name": "gallery",
+  "name": "list-editor",
   "version": "1.0.0",
-  "description": "gallery",
+  "description": "list-editor",
   "main": "index.js",
-  "repository": "git@github.com:OGsplendid/gallery.git",
+  "repository": "git@github.com:OGsplendid/list-editor.git",
   "author": "Vladimir Sivakov <vladimir.a.sivakov@gmail.com>",
   "license": "MIT",
   "scripts": {
